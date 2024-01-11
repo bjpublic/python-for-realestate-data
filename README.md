@@ -7,7 +7,7 @@
 ---
 
 - 저자 이메일: shjj08@gmail.com
-- 질의응답 오픈채팅방: [데이터 분석으롱 배우는 파이썬 문제 해결 질의응답](https://open.kakao.com/o/gHsN6c3f)
+- 질의응답 오픈채팅방: [데이터 분석으로 배우는 파이썬 문제 해결 질의응답](https://open.kakao.com/o/gHsN6c3f)
 
 
 
